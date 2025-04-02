@@ -26,7 +26,6 @@ This project performs sentiment analysis on customer feedback data collected via
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/sentiment-analysis-dashboard.git
-   cd sentiment-analysis-dashboard
    ```
 
 2. Install required libraries:
