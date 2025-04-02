@@ -1,0 +1,11 @@
+timestamp,feedback_type,feedback,suggestions,name,email,sentiment_score
+3/3/2025 21:30:41,Comments,Dont trust it,Delete it,Test,test@gmail.com,0.0
+3/4/2025 8:15:22,Feature Request,Excellent service,Keep it up,John,john.doe@gmail.com,1.0
+3/5/2025 14:10:00,Bug Reports,Improve speed of the app,Optimize performance,Alice,alice123@yahoo.com,0.0
+3/6/2025 10:05:55,Questions,Bad customer support,Train the team better,Bob,bob.smith@hotmail.com,-0.6999999999999998
+3/7/2025 17:20:12,Comments,"Great experience, but can improve response time",Improve response time,Clara,clara_jones@outlook.com,0.8
+3/8/2025 11:30:11,Feature Request,Add dark mode to the website,Implement dark mode,Dave,dave007@gmail.com,-0.15
+3/9/2025 19:50:25,Bug Reports,The UI is very user-friendly,Maintain the design,Eve,eve.miller@aol.com,0.2
+3/10/2025 6:45:38,Questions,Too many ads on the site,Reduce the number of ads,Frank,franky.boy@icloud.com,0.5
+3/11/2025 12:20:30,Feature Request,Add more payment options,Add PayPal,Grace,grace.taylor@aol.com,0.5
+3/12/2025 8:25:10,Comments,"Loved the new feature, but needs improvement",Fine-tune the feature,Hank,hank_kim@gmail.com,0.41818181818181815
