@@ -48,8 +48,7 @@ The script will fetch data from the Google Sheet, perform sentiment analysis, an
 
 ### Dashboard Creation
 1. Open Tableau and connect to the generated CSV file.
-2. Create visualizations to analyze sentiment scores and word frequency.
-3. Customize the dashboard with interactive filters and visuals.
+2. Create visualizations to analyze sentiment scores.
 
 ## Example Usage
 ```bash
